@@ -24,10 +24,10 @@ I'm Xander, :computer: full-stack website application developer :joystick:, from
 
 ### :wrench: Things I'm Working On :toolbox:
 <ul>
-  <li>:keyboard: I’m currently working on a full-stack React portfolio!</li>
-  <li>:man_student: I’m finishing up Lambda School!</li>
+  <li>:microscope: I’m currently working on learning Next.js and Nest.js in Typescript!</li>
+  <li>:necktie: I’m current working as a Software Engineer @ PTC!</li>
   <li>:iphone: I’m always looking to network with others, regardless of field!</li>
-  <li>:goal_net: 2020 Goals: Build more with the MERN Stack and expand to other technologies!</li>
+  <li>:goal_net: 2021 Goals: Build more with the MERN Stack and expand to other technologies!</li>
 </ul>
 
 ### :scroll: Stats About Me :clipboard:
