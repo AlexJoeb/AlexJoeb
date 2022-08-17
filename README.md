@@ -6,7 +6,7 @@
 
 I'm Xander, :computer: full-stack website application developer :joystick:, from :snowflake: Minnesota :mountain_snow:! I like playing with all sorts of technologies, just to see if I can make cool things! *Bonus points if it helps someone.*
 
-_Recruiters, please note that my GitHub contribution graph shows inactivity due to working on code in a private repository; which is not reflected. I am coding every single day and constantly growing and learning. Thank you :heart:_
+_Recruiters, please note that my GitHub contribution graph shows inactivity due to working on code in a private Gerrit repository; which is not reflected. I am coding every single day and constantly growing and learning. Thank you :heart:_
 
 ### :computer: Technologies I Use :desktop_computer:
 <p>
@@ -32,6 +32,3 @@ _Recruiters, please note that my GitHub contribution graph shows inactivity due 
   <li>:iphone: I’m always looking to network with others, regardless of field!</li>
   <li>:goal_net: 2021 Goals: Build more with the MERN Stack and expand to other technologies!</li>
 </ul>
-
-### :scroll: Stats About Me :clipboard:
-![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=alexjoeb&show_icons=true&theme=tokyonight)
